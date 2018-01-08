@@ -1,0 +1,19 @@
+agregar cambios
+git init
+git add index.html o
+git add . //agrega todo lo que esta aqui
+git commit -m
+git log
+git checkout -b 09facc13d28a24c0abe2d59dbd48d772e1f37b8e //rollback
+
+master lugar donde se estaba trabajando la ultima
+ version
+git checkout master
+
+para que este en internet github
+
+git remote add origin https://github.com/Jonzintzun/repoCursoWeb.git
+
+git status
+
+git push -u origin master
